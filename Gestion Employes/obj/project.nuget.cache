@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "S+bDvogKg0w=",
+  "dgSpecHash": "v/GX3oFNq9w=",
   "success": true,
   "projectFilePath": "/Users/douvewane/Desktop/;m io0-[=]/2025-2026/ISM/L3-GLRS-CDSD/C#/Gestion Employes/Gestion Employes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/douvewane/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/douvewane/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

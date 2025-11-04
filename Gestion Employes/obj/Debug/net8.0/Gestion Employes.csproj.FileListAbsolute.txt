@@ -12,3 +12,8 @@
 /Users/douvewane/Desktop/;m io0-[=]/2025-2026/ISM/L3-GLRS-CDSD/C#/Gestion Employes/obj/Debug/net8.0/Gestion Employes.pdb
 /Users/douvewane/Desktop/;m io0-[=]/2025-2026/ISM/L3-GLRS-CDSD/C#/Gestion Employes/obj/Debug/net8.0/Gestion Employes.genruntimeconfig.cache
 /Users/douvewane/Desktop/;m io0-[=]/2025-2026/ISM/L3-GLRS-CDSD/C#/Gestion Employes/obj/Debug/net8.0/ref/Gestion Employes.dll
+/Users/douvewane/Desktop/;m io0-[=]/2025-2026/ISM/L3-GLRS-CDSD/C#/Gestion Employes/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/douvewane/Desktop/;m io0-[=]/2025-2026/ISM/L3-GLRS-CDSD/C#/Gestion Employes/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/douvewane/Desktop/;m io0-[=]/2025-2026/ISM/L3-GLRS-CDSD/C#/Gestion Employes/obj/Debug/net8.0/Gestion Employes.csproj.AssemblyReference.cache
+/Users/douvewane/Desktop/;m io0-[=]/2025-2026/ISM/L3-GLRS-CDSD/C#/Gestion Employes/obj/Debug/net8.0/Gestion Employes.sourcelink.json
+/Users/douvewane/Desktop/;m io0-[=]/2025-2026/ISM/L3-GLRS-CDSD/C#/Gestion Employes/obj/Debug/net8.0/Gestion .F5B4D3C4.Up2Date
